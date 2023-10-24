@@ -1,8 +1,8 @@
 site_name: Apuntes sobre Java
-use_directory_urls: false
+use_directory_urls: true
 
 nav:
-- 'Expeciones': 'Java/Excepciones.md'
+- 'Excepciones': 'java/excepciones.md'
 
 theme:
     language: es
@@ -14,7 +14,7 @@ theme:
         text: 'Ubuntu' 
 #       text: 'Roboto'
         code: 'Roboto Mono' 
-    logo: 'docs/images/java.png'
+    logo: 'images/java.png'
 
 # Ponemos como idioma de búsqueda el inglés
 # para conseguir que busque correctamente
