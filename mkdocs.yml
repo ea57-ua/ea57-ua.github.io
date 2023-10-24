@@ -1,4 +1,5 @@
 site_name: Apuntes sobre Java
+site_url: https://ea57-ua.github.io/java/
 use_directory_urls: true
 
 nav:
