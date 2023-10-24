@@ -1,4 +1,4 @@
 # Apuntes sobre Java
 
 ## Indice
-- [Excepciones](Java/excepciones.md)
+- [Excepciones](docs/Java/excepciones.md)
