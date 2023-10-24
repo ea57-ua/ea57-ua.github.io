@@ -14,7 +14,7 @@ theme:
         text: 'Ubuntu' 
 #       text: 'Roboto'
         code: 'Roboto Mono' 
-    logo: 'images/java.png'
+    logo: 'docs/images/java.png'
 
 # Ponemos como idioma de búsqueda el inglés
 # para conseguir que busque correctamente
