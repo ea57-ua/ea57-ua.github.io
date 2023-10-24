@@ -1,6 +1,6 @@
 site_name: Apuntes sobre Java
-site_url: https://ea57-ua.github.io/java/
-use_directory_urls: true
+site_url: https://ea57-ua.github.io/
+use_directory_urls: false
 
 nav:
 - 'Excepciones': 'java/excepciones.md'
