@@ -1,0 +1,32 @@
+.skills_open .skills_list {
+    height: max-content;
+    margin-bottom: var(--mb-2-5);
+    transition: .5s;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.skills_name {
+    font-size: medium;
+    font-weight: medium;
+}
+.skills_container {
+    row-gap: 0;
+}
+
+.skill_card {
+    background-color: rgb(229, 79, 79);
+    margin-bottom: 10px;
+    padding: 15px 10px;
+    border-radius: 0.25rem;
+    box-shadow: 0 -1px 6px rgba(0, 0, 0, .15);
+    cursor: default;
+}
